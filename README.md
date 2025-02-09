@@ -1,2 +1,2 @@
-# Code_Study
-My study projects
+# Hello World!
+This my code study repository.
