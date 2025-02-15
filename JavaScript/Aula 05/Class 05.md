@@ -25,3 +25,8 @@ True or False
     2. NaN (*Not a number*)
 2. Srting
 3. Booblean
+4. Null
+5. Undefined
+6. Object
+    1. Array
+7. Function
