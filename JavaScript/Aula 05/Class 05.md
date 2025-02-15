@@ -1,6 +1,6 @@
 # Variables
 
-## Nummber
+## Number
 5, 18, -11, 0.5, 0.15, -1.5, 3.14
 
 *JavaScript consider all number types as 'number'*
